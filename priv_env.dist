@@ -9,7 +9,7 @@ export CHAT_ID="72769420"
 export KDIR=kernel
 
 # your kernel's git repo
-kernel_repo="https://github.com/TelegramAt25/empty_kernel_xiaomi_blossom"
+kernel_repo="https://github.com/Hanifz99/niigo_kernel_xiaomi_blossom"
 
 # the branch you want to use in the repo above
 kernel_branch="enanan"
