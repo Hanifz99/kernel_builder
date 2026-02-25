@@ -20,7 +20,7 @@ on: # [push]
       KREPO:
         description: 'kernel repo'
         required: true
-        default: 'https://github.com/Hanifz99/niigo_kernel_xiaomi_blossom/tree/yoka_rb1'
+        default: 'https://github.com/Hanifz99/niigo_kernel_xiaomi_blossom'
       KBRANCH:
         description: 'kernel branch'
         required: true
